@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Esta es mi prueba y sigo sin entender este proyecto GitHub ajjajaja
 Utiliza la flecha hacia la izquierda para volver!
